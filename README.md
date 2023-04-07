@@ -5,3 +5,4 @@
 3. Added styling and navigation to navbar component along with searchbar component.
 4. Added sidebar component with dummy categories and material styling.
 5. Created Video Feed Component and consumed youtube video API from Rapid API with axios.
+6. Created and styled video cards, rendered videos based on category.
