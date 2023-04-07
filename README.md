@@ -4,3 +4,4 @@
 2. Restructured component structure and created multiple components file.
 3. Added styling and navigation to navbar component along with searchbar component.
 4. Added sidebar component with dummy categories and material styling.
+5. Created Video Feed Component and consumed youtube video API from Rapid API with axios.
