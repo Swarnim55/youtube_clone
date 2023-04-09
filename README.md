@@ -8,3 +8,4 @@
 6. Created and styled video cards, rendered videos based on category.
 7. Created channel cards, consumed and passed channel details to the component file.
 8. Created channel detail component and search feed component by passing data from card and feed.
+9. Created video component with react player and updated styling bugs.
